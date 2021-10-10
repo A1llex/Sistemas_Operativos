@@ -98,4 +98,4 @@ void main (){
     //segunda prueba
     piedra_papel_tijera(tijera,tijera);
 
-    }
+}
